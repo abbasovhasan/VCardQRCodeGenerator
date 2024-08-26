@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\controllers\\vcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\controllers\\vcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\views\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\views\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\services\\randomuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\services\\randomuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\vcardqrcodegenerator\\vcardqrcodegenerator\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FB2D1E-F718-4ED3-A109-AFC5DCD275FE}|VCardQRCodeGenerator\\VCardQRCodeGenerator.csproj|solutionrelative:vcardqrcodegenerator\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\appsettings.json",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\appsettings.json",
+              "RelativeToolTip": "VCardQRCodeGenerator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T18:50:22.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Program.cs",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:39:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Views\\Result.cshtml",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Views\\Result.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Views\\Result.cshtml",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Views\\Result.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T18:38:53.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T18:38:10.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VCardController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Controllers\\VCardController.cs",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Controllers\\VCardController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Controllers\\VCardController.cs",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Controllers\\VCardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:37:09.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomUserService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Services\\RandomUserService.cs",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Services\\RandomUserService.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Services\\RandomUserService.cs",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Services\\RandomUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:36:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VCard.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Models\\VCard.cs",
+              "RelativeDocumentMoniker": "VCardQRCodeGenerator\\Models\\VCard.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\VCardQRCodeGenerator\\VCardQRCodeGenerator\\Models\\VCard.cs",
+              "RelativeToolTip": "VCardQRCodeGenerator\\Models\\VCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:35:40.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

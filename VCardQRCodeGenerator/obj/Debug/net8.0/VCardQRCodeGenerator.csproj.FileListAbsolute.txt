@@ -1,0 +1,8 @@
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.RazorAssemblyInfo.cache
+C:\Users\abbas\OneDrive\Documents\C#\VCardQRCodeGenerator\VCardQRCodeGenerator\obj\Debug\net8.0\VCardQRCodeGenerator.RazorAssemblyInfo.cs

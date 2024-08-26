@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "vCard Oluşturma";
+}
+
+<h2>vCard Oluşturma</h2>
+
+<form asp-action="Generate" method="post">
+    <div class="form-group">
+        <label for="count">Oluşturulacak vCard Sayısı:</label>
+        <input type="number" class="form-control" id="count" name="count" value="1" min="1" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Oluştur</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-2">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
